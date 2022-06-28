@@ -26,9 +26,9 @@ while(i!=0)
  i=i/10;
 }
 if(N==Sum)
-System.out.println("Enter Number is Armstrong Number");
+System.out.println("Enter Number is an Armstrong Number");
 else
-System.out.println("Enter Number is not Armstrong Number");
+System.out.println("Enter Number is not an Armstrong Number");
     }
 
 }
